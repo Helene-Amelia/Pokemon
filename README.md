@@ -2,6 +2,7 @@
 This data exploration and analysis was conducted on an Excel database of Pokémon, consisting of four sheets: Pokemon, Moves, Evolution, and TypeChart. The column names of the two sheets used in this project are outlined below.
 
 Pokemon: #, Name, Type, HP, Attack, Defense, Speed, Special Attack, Special Defense
+
 Evolution: Evolving from, Evolving to, Level, Condition, Evolution Type
 
 The data exploration and visualisation was conducted in Python 3, with the following software packpages: Matplotlib, Numpy, Pandas, Seaborn, and SciKit Learn.
