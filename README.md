@@ -1,5 +1,5 @@
 # Pokemon
-This data exploration and analysis was conducted on an Excel database of Pokémon, consisting of four sheets: Pokemon, Moves, Evolution, and TypeChart. The column names of the two sheets used in this project are outlined below.
+This data exploration and analysis was conducted on a database of Pokémon, consisting of four sheets: Pokemon, Moves, Evolution, and TypeChart. The column names of the two sheets used in this project are outlined below.
 
 Pokemon: #, Name, Type, HP, Attack, Defense, Speed, Special Attack, Special Defense
 
